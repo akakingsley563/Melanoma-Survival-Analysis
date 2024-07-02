@@ -33,7 +33,7 @@ For each additional millimeter of melanoma thickness, the time until last follow
 A weak negative relationship between time and age, indicating that older age correlates with decreased time.
 A positive but weak relationship between melanoma thickness and patient age, with older patients tending to have slightly thicker melanomas.
 
-## Key Insight
+## Key Insights
 Older and male patients are more likely to have thicker melanomas.
 Thicker melanomas are associated with shorter survival times.
 The analysis is limited by the small sample size, short time frame, and lack of clinical variables.
