@@ -16,7 +16,7 @@
 ## Project Overview
 The report conducts an extensive exploratory data analysis (EDA) on a melanoma dataset consisting of 205 observations and 7 variables. The analysis includes summary statistics, graphical summaries, regression analysis, significance testing, and distribution analysis to uncover insights and make recommendations regarding melanoma characteristics and treatment effectiveness.
 
-## Project Overview
+## Project Objective
 The objective of the project is to conduct an extensive exploratory data analysis (EDA) on a melanoma dataset. The analysis aims to identify trends and relationships between various factors such as thickness, time, and age of the patients. The dataset consists of 205 observations and 7 variables, and the findings are intended to improve early detection and prevention efforts for melanoma .
 
 ## Data Processing
