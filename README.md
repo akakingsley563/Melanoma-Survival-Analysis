@@ -9,8 +9,8 @@
 - [Data Preprocessing](#data-preprocessing)
 - [Model Used](#model-used)
 - [Regression Analysis](#regression-analysis)
-- [Key Insight](key-insight)
-- [Conclusion](Conclusion)
+- [Key Insights](#key-insights)
+- [Conclusion](#Conclusion)
 
 
 ## Project Overview
