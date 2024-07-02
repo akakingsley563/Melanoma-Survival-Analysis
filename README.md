@@ -19,10 +19,10 @@ The report conducts an extensive exploratory data analysis (EDA) on a melanoma d
 ## Project Objective
 The objective of the project is to conduct an extensive exploratory data analysis (EDA) on a melanoma dataset. The analysis aims to identify trends and relationships between various factors such as thickness, time, and age of the patients. The dataset consists of 205 observations and 7 variables, and the findings are intended to improve early detection and prevention efforts for melanoma .
 
-## Data Processing
+## Data Preprocessing
 The dataset was processed using various statistical methods and tools, particularly the R programming language. Key variables analyzed included thickness, time, and age, among others. Data was cleaned, and appropriate summary statistics were calculated to ensure accurate analysis.
 
-## The Model Used
+## Model Used
 The analysis employed regression models to understand the relationships between variables. Key models included linear regression to explore the relationship between melanoma thickness, patient age, and time until last follow-up or death. The regression equations provided insights into how these factors interrelate.
 
 
